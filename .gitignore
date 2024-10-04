@@ -1,0 +1,8 @@
+.env
+*/.env
+backend/node_modules
+backend/tasks/downloads
+backend/tasks/uploads
+backend/package-lock.json
+frontend/node_modules
+frontend/package-lock.json
